@@ -1,1 +1,1 @@
-# Competitive-Programming_OJ
+# Not Asosiated with MXA
